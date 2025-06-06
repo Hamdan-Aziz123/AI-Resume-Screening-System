@@ -43,11 +43,9 @@ Hiring managers often spend hours manually reviewing resumes. This project aims 
 | Layer | Technologies |
 |-------|--------------|
 | **Language** | Python |
-| **NLP & AI** | TensorFlow, Scikit-Learn, SpaCy, NLTK |
-| **Backend** | Flask / Django |
-| **Frontend** | React.js |
-| **Databases** | PostgreSQL, MongoDB |
-| **Cloud** | AWS, Google Cloud |
+| **NLP & AI** | Scikit-Learn, Pandas |
+| **Frontend** | Streamlit (for UI and interaction) |
+
 
 ---
 

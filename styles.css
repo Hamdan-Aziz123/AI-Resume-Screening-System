@@ -1,0 +1,206 @@
+/* Main styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+}
+
+/* Header styling */
+.header {
+    background: linear-gradient(135deg, #6e48aa 0%, #9d50bb 100%);
+    color: white;
+    padding: 1.5rem;
+    border-radius: 10px;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.logo-title {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.logo-img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.tagline {
+    font-style: italic;
+    opacity: 0.9;
+    margin-top: -0.5rem;
+}
+
+/* Card styling */
+.level-card {
+    padding: 1rem;
+    border-radius: 8px;
+    margin: 1rem 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.fresher {
+    background-color: #e3f2fd;
+    border-left: 5px solid #2196f3;
+}
+
+.intermediate {
+    background-color: #e8f5e9;
+    border-left: 5px solid #4caf50;
+}
+
+.experienced {
+    background-color: #fff3e0;
+    border-left: 5px solid #ff9800;
+}
+
+.prediction-card {
+    background-color: #f5f5f5;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin: 1rem 0;
+    text-align: center;
+}
+
+.predicted-field {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #6e48aa;
+    margin-top: 0.5rem;
+}
+
+/* Progress bar styling */
+.progress-container {
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 20px;
+    margin: 1rem 0;
+}
+
+.progress-bar {
+    height: 30px;
+    background: linear-gradient(90deg, #6e48aa 0%, #9d50bb 100%);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: width 0.5s ease-in-out;
+}
+
+.progress-text {
+    color: white;
+    font-weight: bold;
+}
+
+/* Course cards */
+.course-card {
+    background-color: white;
+    border-radius: 8px;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.course-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.course-link {
+    display: inline-block;
+    background-color: #6e48aa;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    margin-top: 0.5rem;
+    transition: background-color 0.3s ease;
+}
+
+.course-link:hover {
+    background-color: #9d50bb;
+}
+
+/* How it works section */
+.how-it-works {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin: 1.5rem 0;
+}
+
+.step {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.step h4 {
+    color: #6e48aa;
+    margin-top: 0;
+}
+
+/* PDF container */
+.pdf-container {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* Footer styling */
+.footer {
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #e0e0e0;
+    font-size: 0.9rem;
+    color: #666;
+}
+
+.social-links {
+    display: flex;
+    gap: 1rem;
+    margin: 0.5rem 0;
+}
+
+.social-links a {
+    color: #6e48aa;
+    text-decoration: none;
+}
+
+.copyright {
+    font-size: 0.8rem;
+    opacity: 0.7;
+}
+
+/* Form styling */
+.stTextInput>div>div>input, .stTextArea>div>div>textarea {
+    border-radius: 8px !important;
+    padding: 10px !important;
+}
+
+.stButton>button {
+    border-radius: 20px !important;
+    background-color: #6e48aa !important;
+    color: white !important;
+    border: none !important;
+    padding: 0.5rem 1.5rem !important;
+}
+
+.stButton>button:hover {
+    background-color: #9d50bb !important;
+}
+
+/* Table styling */
+.stDataFrame {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* Tab styling */
+.stTabs>div>div>button {
+    border-radius: 8px 8px 0 0 !important;
+}

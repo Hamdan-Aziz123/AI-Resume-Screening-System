@@ -1,0 +1,117 @@
+keyword,category,subcategory
+html,Web Development,Frontend
+css,Web Development,Frontend
+javascript,Web Development,Frontend
+typescript,Web Development,Frontend
+react,Web Development,Frontend
+angular,Web Development,Frontend
+vue,Web Development,Frontend
+svelte,Web Development,Frontend
+next.js,Web Development,Frontend
+nuxt.js,Web Development,Frontend
+node.js,Web Development,Backend
+express,Web Development,Backend
+django,Web Development,Backend
+flask,Web Development,Backend
+spring,Web Development,Backend
+laravel,Web Development,Backend
+ruby on rails,Web Development,Backend
+asp.net,Web Development,Backend
+graphql,Web Development,Backend
+rest api,Web Development,Backend
+mongodb,Database,NoSQL
+mysql,Database,SQL
+postgresql,Database,SQL
+sqlite,Database,SQL
+oracle,Database,SQL
+sql server,Database,SQL
+firebase,Database,NoSQL
+cassandra,Database,NoSQL
+redis,Database,NoSQL
+docker,DevOps,Containers
+kubernetes,DevOps,Containers
+aws,Cloud,AWS
+azure,Cloud,Azure
+gcp,Cloud,GCP
+terraform,DevOps,IaC
+ansible,DevOps,Configuration
+jenkins,DevOps,CI/CD
+github actions,DevOps,CI/CD
+gitlab ci,DevOps,CI/CD
+circleci,DevOps,CI/CD
+python,Programming Language,
+java,Programming Language,
+c++,Programming Language,
+c#,Programming Language,
+go,Programming Language,
+rust,Programming Language,
+kotlin,Programming Language,
+swift,Programming Language,
+dart,Programming Language,
+r,Programming Language,
+matlab,Programming Language,
+machine learning,Data Science,
+deep learning,Data Science,
+tensorflow,Data Science,
+pytorch,Data Science,
+scikit-learn,Data Science,
+pandas,Data Science,
+numpy,Data Science,
+opencv,Data Science,
+spark,Big Data,
+hadoop,Big Data,
+kafka,Big Data,
+tableau,Data Visualization,
+power bi,Data Visualization,
+looker,Data Visualization,
+qlik,Data Visualization,
+jira,Project Management,
+trello,Project Management,
+asana,Project Management,
+slack,Communication,
+microsoft teams,Communication,
+zoom,Communication,
+figma,Design,UI/UX
+adobe xd,Design,UI/UX
+sketch,Design,UI/UX
+photoshop,Design,Graphics
+illustrator,Design,Graphics
+premiere pro,Design,Video
+after effects,Design,Video
+blender,Design,3D
+unity,Game Development,
+unreal engine,Game Development,
+godot,Game Development,
+android,Mobile Development,
+ios,Mobile Development,
+flutter,Mobile Development,
+react native,Mobile Development,
+xamarin,Mobile Development,
+ionic,Mobile Development,
+arduino,Embedded Systems,
+raspberry pi,Embedded Systems,
+linux,System Administration,
+windows,System Administration,
+macos,System Administration,
+bash,System Administration,Shell
+powershell,System Administration,Shell
+wordpress,Web Development,CMS
+shopify,E-commerce,
+magento,E-commerce,
+woocommerce,E-commerce,
+salesforce,CRM,
+hubspot,CRM,
+zoho,CRM,
+blockchain,Blockchain,
+solidity,Blockchain,
+web3,Blockchain,
+ethereum,Blockchain,
+hyperledger,Blockchain,
+cybersecurity,Security,
+ethical hacking,Security,
+penetration testing,Security,
+owasp,Security,
+siem,Security,
+splunk,Security,
+wireshark,Security,
+metasploit,Security,
